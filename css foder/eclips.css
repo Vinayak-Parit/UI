@@ -1,0 +1,25 @@
+
+h1
+{
+    padding-left:70px;
+    padding-top:50px;
+    
+}
+#moon
+{
+    border: 6px solid;
+    width:100px;
+    height:100px;
+    margin-left:500px;
+    margin-bottom: 800px;
+    border-radius: 60px;
+    background-color: rgb(236, 234, 232);
+
+
+}
+#m
+{
+    padding-left:30px;
+}
+
+
